@@ -762,9 +762,9 @@ img{
 /*services==================================*/
 
 .services {
-    margin-top: 500px;
+    margin-top: 0px;
     margin-bottom: -180px;
-    padding-top: 150px;
+    padding-top: 100px;
     padding-bottom: 150px;
 }
 
